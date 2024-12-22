@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Harish</h1>
 <h3 align="center">A Passionate MERN-Stack Developer from India</h3>
 
-<h3 align="center">🌀 3D Visuals</h3>
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="500" />
 </p>
