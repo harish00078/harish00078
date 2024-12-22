@@ -1,13 +1,7 @@
 <h1 align="center">👋 Hi, I'm Harish</h1>
 <h3 align="center">A Passionate MERN-Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harish00078&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/harish00078?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
 ---
-
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harish00078&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
@@ -16,8 +10,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish00078&layout=compact&theme=radical" alt="Top Languages" width="450" />
 </p>
-
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harish00078&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/harish00078?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
 
 <h3 align="center">🌀 3D Visuals</h3>
 <p align="center">
