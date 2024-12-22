@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Harish</h1>
+<<h1 align="center">👋 Hi, I'm Harish</h1>
 <h3 align="center">A Passionate MERN-Stack Developer from India</h3>
 
 <p align="center">
@@ -8,8 +8,8 @@
 
 ---
 
-🌟 **About Me**  
-- 🌱 Currently learning **MERN-Stack**.  
+### 🌟 About Me  
+- 🌱 I’m currently learning **MERN-Stack**.  
 - 👨‍💻 Explore my projects at [My GitHub Repositories](https://github.com/harish00078).  
 - 💬 Ask me about **Node.js, React, Express**.  
 - 📫 Reach me at **harishpathania150@gmail.com**.  
@@ -32,7 +32,6 @@
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
-  <!-- Add all tool icons here -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   </a>
@@ -42,7 +41,16 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
   </a>
-  <!-- Add other tools here -->
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  </a>
+  <a href="https://docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  </a>
+  <!-- Add more tools here -->
 </p>
 
 ---
@@ -58,7 +66,7 @@
 
 ---
 
-<h3 align="center">🌟 Featured Trophy</h3>
+<h3 align="center">🏆 Achievements</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harish00078&theme=onedark" alt="GitHub Trophies" />
 </p>
@@ -67,12 +75,12 @@
 
 <h3 align="center">🌀 3D Visuals</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harish00078/harish00078/main/assets/developer.gif" alt="3D Developer Animation" width="500" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="500" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harish00078/harish00078/main/assets/rocket.gif" alt="3D Rocket Animation" width="500" />
+  <img src="https://cdn.dribbble.com/users/720825/screenshots/3253319/media/6a8f2062d74490234ecb2d8b56e6c762.gif" alt="3D Rocket Animation" width="500" />
 </p>
 
 ---
 
-🌟 Thank you for visiting my GitHub! Let's collaborate and build something amazing! 🚀
+🌟 Thank you for visiting my profile! Let’s build something amazing together! 🚀
